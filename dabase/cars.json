@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Ford",
+        "model":"Ford GT100",
+        "manufacturer":"Ford",
+        "productionYear":2009,
+        "mileage": 0,
+        "price": 50000.0,
+        "doors": 2,
+        "tires": 4,
+        "seats": 2,
+        "color": "Red"
+    }
+]

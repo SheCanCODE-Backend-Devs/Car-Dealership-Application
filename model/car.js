@@ -20,7 +20,3 @@ class Car {
 Car.prototype.entryDate = new Date();
 
 module.exports = Car;
-
-let ford = new Car("Ford", "Ford GT100", "Ford", 2019, 0, 50000.0, 2, 4, 2, "Red");
-
-console.log(ford.toString());
